@@ -7,7 +7,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Reporting Bugs
 
-This section guides you through submitting a bug report for BlackDuckTheories. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
+This section guides you through submitting a bug report for EluminaGroup. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
 
 Before creating bug reports, please check this list as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out [the required template, the information it asks for helps us resolve issues faster.
 
@@ -32,7 +32,7 @@ Provide more context by answering these questions:
 * If the problem is related to working with files (e.g. opening and editing files), **does the problem happen for all files and projects or only some?** Does the problem happen only when working with local or remote files (e.g. on network drives), with files of a specific type (e.g. only JavaScript or Python files), with large files or files with very long lines, or with files in a specific encoding? Is there anything else special about the files you are using?
 ### Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for BlackDuckTheories modules, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
+This section guides you through submitting an enhancement suggestion for EluminaGroup modules, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
 
 Before creating enhancement suggestions, please check issues as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please include as many details as possible. Fill in the template, including the steps that you imagine you would take if the feature you're requesting existed.
 
@@ -61,14 +61,14 @@ The process described here has several goals:
    Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
 3. You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
 4. Follow all instructions in [the template](./.github/pull_request_template.md).
-5. Follow the [styleguides](https://docs.BlackDuckTheories.one/docs/style-guide/terraform-style-guide.html).
+5. Follow the [styleguides](https://docs.EluminaGroup.one/docs/style-guide/terraform-style-guide.html).
 6. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing. <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
 
 While the prerequisites above must be satisfied prior to have your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
 
 ### Your First Code Contribution
 
-Unsure where to begin contributing to BlackDuckTheories? You can start by looking through these `beginner` and `help-wanted` issues:
+Unsure where to begin contributing to EluminaGroup? You can start by looking through these `beginner` and `help-wanted` issues:
 
 * `beginner` - issues that should only require a few lines of code, and a test or two.
 * `help-wanted` - issues which should be a bit more involved than `beginner` issues.

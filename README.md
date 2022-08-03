@@ -1,7 +1,7 @@
 # terraform-aws-organization
 
-[![Lint Status](https://github.com/vishalbhogate/terraform-aws-organization/workflows/Lint/badge.svg)](https://github.com/vishalbhogate/terraform-aws-organization/actions)
-[![LICENSE](https://img.shields.io/github/license/vishalbhogate/terraform-aws-organization)](https://github.com/vishalbhogate/terraform-aws-organization/blob/master/LICENSE)
+[![Lint Status](https://github.com/EluminaGroup/terraform-aws-organization/workflows/Lint/badge.svg)](https://github.com/EluminaGroup/terraform-aws-organization/actions)
+[![LICENSE](https://img.shields.io/github/license/EluminaGroup/terraform-aws-organization)](https://github.com/EluminaGroup/terraform-aws-organization/blob/master/LICENSE)
 
 This Terraform module creates a simple AWS Organization.
 
@@ -16,7 +16,7 @@ The following resources will be created:
 
 ```hcl
 module "org" {
-  source = "git::https://github.com/vishalbhogate/terraform-aws-organization.git?ref=0.0.2"
+  source = "git::https://github.com/EluminaGroup/terraform-aws-organization.git?ref=0.0.2"
 }
 ```
 
@@ -54,8 +54,8 @@ module "org" {
 
 ## Authors
 
-Module managed by [BlackDuckTheories Solutions](https://github.com/vishalbhogate).
+Module managed by [EluminaGroup](https://github.com/EluminaGroup).
 
 ## License
 
-Apache 2 Licensed. See [LICENSE](https://github.com/vishalbhogate/terraform-aws-organization/blob/master/LICENSE) for full details.
+Apache 2 Licensed. See [LICENSE](https://github.com/EluminaGroup/terraform-aws-organization/blob/master/LICENSE) for full details.
