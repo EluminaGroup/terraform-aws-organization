@@ -1,8 +1,5 @@
 # terraform-aws-organization
 
-[![Lint Status](https://github.com/EluminaGroup/terraform-aws-organization/workflows/Lint/badge.svg)](https://github.com/EluminaGroup/terraform-aws-organization/actions)
-[![LICENSE](https://img.shields.io/github/license/EluminaGroup/terraform-aws-organization)](https://github.com/EluminaGroup/terraform-aws-organization/blob/master/LICENSE)
-
 This Terraform module creates a simple AWS Organization.
 
 Deploy this module to your _master_ account.
